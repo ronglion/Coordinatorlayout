@@ -55,7 +55,7 @@
             <Button
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:text="Rong" />
+                android:text="Test" />
             <Button
                 android:layout_width="100dp"
                 android:layout_height="100dp"
@@ -63,7 +63,7 @@
             <Button
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:text="Rong" />
+                android:text="Test" />
             <Button
                 android:layout_width="100dp"
                 android:layout_height="100dp"
@@ -71,7 +71,7 @@
             <Button
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:text="Rong" />
+                android:text="Test" />
 
             <Button
                 android:layout_width="100dp"
@@ -86,7 +86,7 @@
             <Button
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:text="Rong" />
+                android:text="Test" />
 
             <Button
                 android:layout_width="100dp"

@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                 int id = menuItem.getItemId();
                 switch (id) {
                     case R.id.navItem1:
-                        Toast.makeText(context, "clic home button", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(context, "click home button", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.navItem2:
                         break;
